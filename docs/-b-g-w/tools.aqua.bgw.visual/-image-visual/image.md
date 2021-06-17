@@ -1,6 +1,3 @@
----
-title: image -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[ImageVisual](index.md)/[image](image.md)
 
 

@@ -1,6 +1,3 @@
----
-title: MouseEvent -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[MouseEvent](index.md)/[MouseEvent](-mouse-event.md)
 
 

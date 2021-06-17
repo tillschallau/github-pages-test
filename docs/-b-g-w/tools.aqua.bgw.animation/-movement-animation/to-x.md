@@ -1,6 +1,3 @@
----
-title: toX -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[MovementAnimation](index.md)/[toX](to-x.md)
 
 

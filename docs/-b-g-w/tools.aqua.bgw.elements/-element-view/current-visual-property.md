@@ -1,6 +1,3 @@
----
-title: currentVisualProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[currentVisualProperty](current-visual-property.md)
 
 

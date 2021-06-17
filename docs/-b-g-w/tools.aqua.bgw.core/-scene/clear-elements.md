@@ -1,6 +1,3 @@
----
-title: clearElements -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[clearElements](clear-elements.md)
 
 

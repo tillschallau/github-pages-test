@@ -1,6 +1,3 @@
----
-title: description -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.dialog](../index.md)/[ExtensionFilter](index.md)/[description](description.md)
 
 

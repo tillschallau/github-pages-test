@@ -1,6 +1,3 @@
----
-title: lock -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameScene](index.md)/[lock](lock.md)
 
 

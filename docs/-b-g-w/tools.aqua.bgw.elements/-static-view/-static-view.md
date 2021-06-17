@@ -1,6 +1,3 @@
----
-title: StaticView -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[StaticView](index.md)/[StaticView](-static-view.md)
 
 

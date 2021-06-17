@@ -1,6 +1,3 @@
----
-title: speed -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[DiceAnimation](index.md)/[speed](speed.md)
 
 

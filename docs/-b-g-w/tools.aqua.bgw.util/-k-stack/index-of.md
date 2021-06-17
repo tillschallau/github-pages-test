@@ -1,6 +1,3 @@
----
-title: indexOf -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[KStack](index.md)/[indexOf](index-of.md)
 
 

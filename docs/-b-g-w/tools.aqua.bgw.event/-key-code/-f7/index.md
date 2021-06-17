@@ -1,6 +1,3 @@
----
-title: F7 -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[F7](index.md)
 
 

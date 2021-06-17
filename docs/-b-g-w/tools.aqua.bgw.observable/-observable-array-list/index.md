@@ -1,6 +1,3 @@
----
-title: ObservableArrayList -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableArrayList](index.md)
 
 

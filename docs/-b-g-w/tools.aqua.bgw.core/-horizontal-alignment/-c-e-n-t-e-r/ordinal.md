@@ -1,6 +1,3 @@
----
-title: ordinal -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[HorizontalAlignment](../index.md)/[CENTER](index.md)/[ordinal](ordinal.md)
 
 

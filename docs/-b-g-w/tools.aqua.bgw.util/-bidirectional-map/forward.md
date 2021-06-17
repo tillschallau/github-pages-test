@@ -1,6 +1,3 @@
----
-title: forward -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[BidirectionalMap](index.md)/[forward](forward.md)
 
 

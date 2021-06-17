@@ -1,6 +1,3 @@
----
-title: forEach -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[forEach](for-each.md)
 
 

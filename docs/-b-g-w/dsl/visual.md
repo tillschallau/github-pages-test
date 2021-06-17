@@ -1,6 +1,3 @@
----
-title: visual -
----
 //[BGW](../../index.md)/[dsl](index.md)/[visual](visual.md)
 
 

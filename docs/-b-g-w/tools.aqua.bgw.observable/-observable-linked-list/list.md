@@ -1,6 +1,3 @@
----
-title: list -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableLinkedList](index.md)/[list](list.md)
 
 

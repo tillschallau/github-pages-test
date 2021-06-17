@@ -1,6 +1,3 @@
----
-title: isIndeterminate -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[CheckBox](index.md)/[isIndeterminate](is-indeterminate.md)
 
 

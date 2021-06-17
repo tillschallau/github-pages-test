@@ -1,6 +1,3 @@
----
-title: radioButton -
----
 //[BGW](../../index.md)/[dsl](index.md)/[radioButton](radio-button.md)
 
 

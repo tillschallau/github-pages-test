@@ -1,6 +1,3 @@
----
-title: findPathToChild -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[findPathToChild](find-path-to-child.md)
 
 

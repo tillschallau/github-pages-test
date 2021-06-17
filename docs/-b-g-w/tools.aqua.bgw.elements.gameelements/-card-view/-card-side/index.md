@@ -1,6 +1,3 @@
----
-title: CardSide -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.gameelements](../../index.md)/[CardView](../index.md)/[CardSide](index.md)
 
 
@@ -35,7 +32,7 @@ jvm
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/name/#/PointingToDeclaration/"></a>[name](index.md#119704665%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#119704665%2FProperties%2F-302347323): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
-| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#773148741%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#773148741%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
+| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/name/#/PointingToDeclaration/"></a>[name](index.md#119704665%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#119704665%2FProperties%2F-1902411840): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#773148741%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#773148741%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
 | <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/visual/#/PointingToDeclaration/"></a>[visual](visual.md)| <a name="tools.aqua.bgw.elements.gameelements/CardView.CardSide/visual/#/PointingToDeclaration/"></a> [jvm] val [visual](visual.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)Corresponding visual index of this card side   <br>|
 

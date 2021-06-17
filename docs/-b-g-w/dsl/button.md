@@ -1,6 +1,3 @@
----
-title: button -
----
 //[BGW](../../index.md)/[dsl](index.md)/[button](button.md)
 
 

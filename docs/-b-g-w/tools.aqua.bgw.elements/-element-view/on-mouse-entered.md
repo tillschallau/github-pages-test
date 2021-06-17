@@ -1,6 +1,3 @@
----
-title: onMouseEntered -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[onMouseEntered](on-mouse-entered.md)
 
 

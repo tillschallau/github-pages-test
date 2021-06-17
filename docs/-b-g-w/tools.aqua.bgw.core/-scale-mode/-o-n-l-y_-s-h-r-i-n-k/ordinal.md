@@ -1,6 +1,3 @@
----
-title: ordinal -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[ScaleMode](../index.md)/[ONLY_SHRINK](index.md)/[ordinal](ordinal.md)
 
 

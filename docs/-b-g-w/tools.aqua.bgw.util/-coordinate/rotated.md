@@ -1,6 +1,3 @@
----
-title: rotated -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[Coordinate](index.md)/[rotated](rotated.md)
 
 

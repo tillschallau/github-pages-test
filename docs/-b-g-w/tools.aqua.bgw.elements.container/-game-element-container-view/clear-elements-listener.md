@@ -1,6 +1,3 @@
----
-title: clearElementsListener -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[GameElementContainerView](index.md)/[clearElementsListener](clear-elements-listener.md)
 
 

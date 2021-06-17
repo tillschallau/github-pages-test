@@ -1,6 +1,3 @@
----
-title: imageProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[ImageVisual](index.md)/[imageProperty](image-property.md)
 
 

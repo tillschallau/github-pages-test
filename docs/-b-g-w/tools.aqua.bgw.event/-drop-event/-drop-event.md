@@ -1,6 +1,3 @@
----
-title: DropEvent -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[DropEvent](index.md)/[DropEvent](-drop-event.md)
 
 

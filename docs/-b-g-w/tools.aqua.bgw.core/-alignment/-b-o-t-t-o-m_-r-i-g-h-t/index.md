@@ -1,6 +1,3 @@
----
-title: BOTTOM_RIGHT -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[Alignment](../index.md)/[BOTTOM_RIGHT](index.md)
 
 

@@ -1,6 +1,3 @@
----
-title: DiceAnimation -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[DiceAnimation](index.md)
 
 
@@ -37,10 +34,10 @@ jvm
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.animation/DiceAnimation/duration/#/PointingToDeclaration/"></a>[duration](index.md#-1441825487%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.animation/DiceAnimation/duration/#/PointingToDeclaration/"></a> [jvm] var [duration](index.md#-1441825487%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)Animation duration in milliseconds.   <br>|
-| <a name="tools.aqua.bgw.animation/DiceAnimation/element/#/PointingToDeclaration/"></a>[element](index.md#-1189908807%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.animation/DiceAnimation/element/#/PointingToDeclaration/"></a> [jvm] val [element](index.md#-1189908807%2FProperties%2F-302347323): [T](index.md)ElementView to animate   <br>|
-| <a name="tools.aqua.bgw.animation/DiceAnimation/onFinished/#/PointingToDeclaration/"></a>[onFinished](index.md#-1272756236%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.animation/DiceAnimation/onFinished/#/PointingToDeclaration/"></a> [jvm] var [onFinished](index.md#-1272756236%2FProperties%2F-302347323): [EventHandler](../../tools.aqua.bgw.event/-event-handler/index.md)<[Event](../../tools.aqua.bgw.event/-event/index.md)>?Event handler that gets invoked when animation has finished.   <br>|
-| <a name="tools.aqua.bgw.animation/DiceAnimation/running/#/PointingToDeclaration/"></a>[running](index.md#978487638%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.animation/DiceAnimation/running/#/PointingToDeclaration/"></a> [jvm] var [running](index.md#978487638%2FProperties%2F-302347323): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)Boolean indicating whether the animation is currently playing.   <br>|
+| <a name="tools.aqua.bgw.animation/DiceAnimation/duration/#/PointingToDeclaration/"></a>[duration](index.md#-1441825487%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.animation/DiceAnimation/duration/#/PointingToDeclaration/"></a> [jvm] var [duration](index.md#-1441825487%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)Animation duration in milliseconds.   <br>|
+| <a name="tools.aqua.bgw.animation/DiceAnimation/element/#/PointingToDeclaration/"></a>[element](index.md#-1189908807%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.animation/DiceAnimation/element/#/PointingToDeclaration/"></a> [jvm] val [element](index.md#-1189908807%2FProperties%2F-1902411840): [T](index.md)ElementView to animate   <br>|
+| <a name="tools.aqua.bgw.animation/DiceAnimation/onFinished/#/PointingToDeclaration/"></a>[onFinished](index.md#-1272756236%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.animation/DiceAnimation/onFinished/#/PointingToDeclaration/"></a> [jvm] var [onFinished](index.md#-1272756236%2FProperties%2F-1902411840): [EventHandler](../../tools.aqua.bgw.event/-event-handler/index.md)<[Event](../../tools.aqua.bgw.event/-event/index.md)>?Event handler that gets invoked when animation has finished.   <br>|
+| <a name="tools.aqua.bgw.animation/DiceAnimation/running/#/PointingToDeclaration/"></a>[running](index.md#978487638%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.animation/DiceAnimation/running/#/PointingToDeclaration/"></a> [jvm] var [running](index.md#978487638%2FProperties%2F-1902411840): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)Boolean indicating whether the animation is currently playing.   <br>|
 | <a name="tools.aqua.bgw.animation/DiceAnimation/speed/#/PointingToDeclaration/"></a>[speed](speed.md)| <a name="tools.aqua.bgw.animation/DiceAnimation/speed/#/PointingToDeclaration/"></a> [jvm] val [speed](speed.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 50Count of steps.   <br>|
 | <a name="tools.aqua.bgw.animation/DiceAnimation/toSide/#/PointingToDeclaration/"></a>[toSide](to-side.md)| <a name="tools.aqua.bgw.animation/DiceAnimation/toSide/#/PointingToDeclaration/"></a> [jvm] val [toSide](to-side.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)Resulting side after roll   <br>|
 

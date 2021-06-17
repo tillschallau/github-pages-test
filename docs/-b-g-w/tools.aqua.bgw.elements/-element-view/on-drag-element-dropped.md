@@ -1,6 +1,3 @@
----
-title: onDragElementDropped -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[onDragElementDropped](on-drag-element-dropped.md)
 
 

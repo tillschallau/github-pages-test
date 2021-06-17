@@ -1,6 +1,3 @@
----
-title: removeEmptyRows -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[removeEmptyRows](remove-empty-rows.md)
 
 

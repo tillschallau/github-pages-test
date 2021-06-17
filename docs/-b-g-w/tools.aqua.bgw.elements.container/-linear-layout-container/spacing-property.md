@@ -1,6 +1,3 @@
----
-title: spacingProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[LinearLayoutContainer](index.md)/[spacingProperty](spacing-property.md)
 
 

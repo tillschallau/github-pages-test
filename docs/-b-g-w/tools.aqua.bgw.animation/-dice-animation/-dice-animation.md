@@ -1,6 +1,3 @@
----
-title: DiceAnimation -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[DiceAnimation](index.md)/[DiceAnimation](-dice-animation.md)
 
 

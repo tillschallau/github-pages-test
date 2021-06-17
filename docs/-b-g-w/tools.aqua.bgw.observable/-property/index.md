@@ -1,6 +1,3 @@
----
-title: Property -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[Property](index.md)
 
 

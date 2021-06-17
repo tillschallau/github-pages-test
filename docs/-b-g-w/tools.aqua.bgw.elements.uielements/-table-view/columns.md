@@ -1,6 +1,3 @@
----
-title: columns -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[TableView](index.md)/[columns](columns.md)
 
 

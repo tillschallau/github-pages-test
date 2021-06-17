@@ -1,6 +1,3 @@
----
-title: NUMPAD6 -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[NUMPAD6](index.md)
 
 

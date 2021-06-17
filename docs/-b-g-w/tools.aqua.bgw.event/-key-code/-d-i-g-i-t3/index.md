@@ -1,6 +1,3 @@
----
-title: DIGIT3 -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[DIGIT3](index.md)
 
 

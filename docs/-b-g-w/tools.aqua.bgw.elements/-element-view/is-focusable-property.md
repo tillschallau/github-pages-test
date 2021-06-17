@@ -1,6 +1,3 @@
----
-title: isFocusableProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[isFocusableProperty](is-focusable-property.md)
 
 

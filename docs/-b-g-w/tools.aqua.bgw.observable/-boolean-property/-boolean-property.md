@@ -1,6 +1,3 @@
----
-title: BooleanProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[BooleanProperty](index.md)/[BooleanProperty](-boolean-property.md)
 
 

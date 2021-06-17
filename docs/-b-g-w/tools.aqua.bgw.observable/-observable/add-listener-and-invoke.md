@@ -1,6 +1,3 @@
----
-title: addListenerAndInvoke -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[Observable](index.md)/[addListenerAndInvoke](add-listener-and-invoke.md)
 
 

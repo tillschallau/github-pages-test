@@ -1,6 +1,3 @@
----
-title: ADD -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[ADD](index.md)
 
 

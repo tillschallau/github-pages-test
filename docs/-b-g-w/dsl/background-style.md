@@ -1,6 +1,3 @@
----
-title: backgroundStyle -
----
 //[BGW](../../index.md)/[dsl](index.md)/[backgroundStyle](background-style.md)
 
 

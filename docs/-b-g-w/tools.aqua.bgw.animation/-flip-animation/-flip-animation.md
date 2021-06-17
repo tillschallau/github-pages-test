@@ -1,6 +1,3 @@
----
-title: FlipAnimation -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[FlipAnimation](index.md)/[FlipAnimation](-flip-animation.md)
 
 

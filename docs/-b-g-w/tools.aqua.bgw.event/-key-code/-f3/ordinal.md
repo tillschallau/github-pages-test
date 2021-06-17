@@ -1,6 +1,3 @@
----
-title: ordinal -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[F3](index.md)/[ordinal](ordinal.md)
 
 

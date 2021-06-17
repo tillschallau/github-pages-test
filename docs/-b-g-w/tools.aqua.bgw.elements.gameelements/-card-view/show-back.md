@@ -1,6 +1,3 @@
----
-title: showBack -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[CardView](index.md)/[showBack](show-back.md)
 
 

@@ -1,6 +1,3 @@
----
-title: NEXT -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[NEXT](index.md)
 
 

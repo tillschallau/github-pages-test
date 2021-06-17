@@ -1,6 +1,3 @@
----
-title: onDragGestureMoved -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[DynamicView](index.md)/[onDragGestureMoved](on-drag-gesture-moved.md)
 
 

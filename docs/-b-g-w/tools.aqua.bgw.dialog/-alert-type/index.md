@@ -1,6 +1,3 @@
----
-title: AlertType -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.dialog](../index.md)/[AlertType](index.md)
 
 
@@ -28,6 +25,6 @@ Enum for all available alert types.
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.dialog/AlertType/name/#/PointingToDeclaration/"></a>[name](index.md#-512031219%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.dialog/AlertType/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#-512031219%2FProperties%2F-302347323): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
-| <a name="tools.aqua.bgw.dialog/AlertType/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#1276119569%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.dialog/AlertType/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#1276119569%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
+| <a name="tools.aqua.bgw.dialog/AlertType/name/#/PointingToDeclaration/"></a>[name](index.md#-512031219%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.dialog/AlertType/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#-512031219%2FProperties%2F-1902411840): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="tools.aqua.bgw.dialog/AlertType/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#1276119569%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.dialog/AlertType/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#1276119569%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
 

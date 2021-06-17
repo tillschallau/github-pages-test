@@ -1,6 +1,3 @@
----
-title: showAlertDialog -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[showAlertDialog](show-alert-dialog.md)
 
 

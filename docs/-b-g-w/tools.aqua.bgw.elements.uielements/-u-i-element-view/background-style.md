@@ -1,6 +1,3 @@
----
-title: backgroundStyle -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[UIElementView](index.md)/[backgroundStyle](background-style.md)
 
 

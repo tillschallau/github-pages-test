@@ -1,6 +1,3 @@
----
-title: FRONT -
----
 //[BGW](../../../../../index.md)/[tools.aqua.bgw.elements.gameelements](../../../index.md)/[CardView](../../index.md)/[CardSide](../index.md)/[FRONT](index.md)
 
 

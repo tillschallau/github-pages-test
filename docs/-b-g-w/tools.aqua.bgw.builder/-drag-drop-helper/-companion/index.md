@@ -1,6 +1,3 @@
----
-title: Companion -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.builder](../../index.md)/[DragDropHelper](../index.md)/[Companion](index.md)
 
 

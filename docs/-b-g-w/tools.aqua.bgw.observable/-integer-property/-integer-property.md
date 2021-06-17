@@ -1,6 +1,3 @@
----
-title: IntegerProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[IntegerProperty](index.md)/[IntegerProperty](-integer-property.md)
 
 

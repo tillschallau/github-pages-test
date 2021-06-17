@@ -1,6 +1,3 @@
----
-title: name -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.uielements](../../index.md)/[Orientation](../index.md)/[VERTICAL](index.md)/[name](name.md)
 
 

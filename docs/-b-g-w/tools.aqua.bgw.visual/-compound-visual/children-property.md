@@ -1,6 +1,3 @@
----
-title: childrenProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[CompoundVisual](index.md)/[childrenProperty](children-property.md)
 
 

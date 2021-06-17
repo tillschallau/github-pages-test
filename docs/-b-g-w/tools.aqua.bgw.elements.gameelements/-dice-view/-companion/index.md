@@ -1,6 +1,3 @@
----
-title: Companion -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.gameelements](../../index.md)/[DiceView](../index.md)/[Companion](index.md)
 
 

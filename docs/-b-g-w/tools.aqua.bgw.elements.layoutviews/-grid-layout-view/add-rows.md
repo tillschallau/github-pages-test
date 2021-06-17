@@ -1,6 +1,3 @@
----
-title: addRows -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[addRows](add-rows.md)
 
 

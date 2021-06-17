@@ -1,6 +1,3 @@
----
-title: setAutoRowHeight -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[setAutoRowHeight](set-auto-row-height.md)
 
 

@@ -1,6 +1,3 @@
----
-title: colorProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[ColorVisual](index.md)/[colorProperty](color-property.md)
 
 

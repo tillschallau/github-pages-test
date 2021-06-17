@@ -1,6 +1,3 @@
----
-title: numberOfElements -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[GameElementContainerView](index.md)/[numberOfElements](number-of-elements.md)
 
 

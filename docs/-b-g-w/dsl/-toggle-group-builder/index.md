@@ -1,6 +1,3 @@
----
-title: ToggleGroupBuilder -
----
 //[BGW](../../../index.md)/[dsl](../index.md)/[ToggleGroupBuilder](index.md)
 
 

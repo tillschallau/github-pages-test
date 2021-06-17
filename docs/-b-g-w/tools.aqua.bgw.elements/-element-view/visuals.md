@@ -1,6 +1,3 @@
----
-title: visuals -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[visuals](visuals.md)
 
 

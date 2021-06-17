@@ -1,6 +1,3 @@
----
-title: listView -
----
 //[BGW](../../index.md)/[dsl](index.md)/[listView](list-view.md)
 
 

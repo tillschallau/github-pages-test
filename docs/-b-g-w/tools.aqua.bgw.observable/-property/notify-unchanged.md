@@ -1,6 +1,3 @@
----
-title: notifyUnchanged -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[Property](index.md)/[notifyUnchanged](notify-unchanged.md)
 
 

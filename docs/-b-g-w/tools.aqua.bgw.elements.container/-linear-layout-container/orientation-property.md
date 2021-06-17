@@ -1,6 +1,3 @@
----
-title: orientationProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[LinearLayoutContainer](index.md)/[orientationProperty](orientation-property.md)
 
 

@@ -1,6 +1,3 @@
----
-title: removeAll -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[CardStackView](index.md)/[removeAll](remove-all.md)
 
 

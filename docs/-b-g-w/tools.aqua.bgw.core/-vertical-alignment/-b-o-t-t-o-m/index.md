@@ -1,6 +1,3 @@
----
-title: BOTTOM -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[VerticalAlignment](../index.md)/[BOTTOM](index.md)
 
 

@@ -1,6 +1,3 @@
----
-title: removeListener -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[Observable](index.md)/[removeListener](remove-listener.md)
 
 

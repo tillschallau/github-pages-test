@@ -1,6 +1,3 @@
----
-title: draggedElement -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[DropEvent](index.md)/[draggedElement](dragged-element.md)
 
 

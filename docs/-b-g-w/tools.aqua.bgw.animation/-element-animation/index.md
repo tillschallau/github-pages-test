@@ -1,6 +1,3 @@
----
-title: ElementAnimation -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[ElementAnimation](index.md)
 
 
@@ -28,10 +25,10 @@ jvm
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.animation/ElementAnimation/duration/#/PointingToDeclaration/"></a>[duration](index.md#1362376584%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.animation/ElementAnimation/duration/#/PointingToDeclaration/"></a> [jvm] var [duration](index.md#1362376584%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 1000Animation duration in milliseconds.   <br>|
+| <a name="tools.aqua.bgw.animation/ElementAnimation/duration/#/PointingToDeclaration/"></a>[duration](index.md#1362376584%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.animation/ElementAnimation/duration/#/PointingToDeclaration/"></a> [jvm] var [duration](index.md#1362376584%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 1000Animation duration in milliseconds.   <br>|
 | <a name="tools.aqua.bgw.animation/ElementAnimation/element/#/PointingToDeclaration/"></a>[element](element.md)| <a name="tools.aqua.bgw.animation/ElementAnimation/element/#/PointingToDeclaration/"></a> [jvm] val [element](element.md): [T](index.md)ElementView to animate   <br>|
-| <a name="tools.aqua.bgw.animation/ElementAnimation/onFinished/#/PointingToDeclaration/"></a>[onFinished](index.md#620939403%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.animation/ElementAnimation/onFinished/#/PointingToDeclaration/"></a> [jvm] var [onFinished](index.md#620939403%2FProperties%2F-302347323): [EventHandler](../../tools.aqua.bgw.event/-event-handler/index.md)<[Event](../../tools.aqua.bgw.event/-event/index.md)>? = nullEvent handler that gets invoked when animation has finished.   <br>|
-| <a name="tools.aqua.bgw.animation/ElementAnimation/running/#/PointingToDeclaration/"></a>[running](index.md#-1424906209%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.animation/ElementAnimation/running/#/PointingToDeclaration/"></a> [jvm] var [running](index.md#-1424906209%2FProperties%2F-302347323): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html) = falseBoolean indicating whether the animation is currently playing.   <br>|
+| <a name="tools.aqua.bgw.animation/ElementAnimation/onFinished/#/PointingToDeclaration/"></a>[onFinished](index.md#620939403%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.animation/ElementAnimation/onFinished/#/PointingToDeclaration/"></a> [jvm] var [onFinished](index.md#620939403%2FProperties%2F-1902411840): [EventHandler](../../tools.aqua.bgw.event/-event-handler/index.md)<[Event](../../tools.aqua.bgw.event/-event/index.md)>? = nullEvent handler that gets invoked when animation has finished.   <br>|
+| <a name="tools.aqua.bgw.animation/ElementAnimation/running/#/PointingToDeclaration/"></a>[running](index.md#-1424906209%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.animation/ElementAnimation/running/#/PointingToDeclaration/"></a> [jvm] var [running](index.md#-1424906209%2FProperties%2F-1902411840): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html) = falseBoolean indicating whether the animation is currently playing.   <br>|
 
 
 ## Inheritors  

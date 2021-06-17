@@ -1,6 +1,3 @@
----
-title: name -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[Alignment](../index.md)/[RIGHT_CENTER](index.md)/[name](name.md)
 
 

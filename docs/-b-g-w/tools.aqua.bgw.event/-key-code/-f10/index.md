@@ -1,6 +1,3 @@
----
-title: F10 -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[F10](index.md)
 
 

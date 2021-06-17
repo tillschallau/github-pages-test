@@ -1,6 +1,3 @@
----
-title: TextVisual -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[TextVisual](index.md)
 
 

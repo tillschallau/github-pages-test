@@ -1,6 +1,3 @@
----
-title: trim -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[trim](trim.md)
 
 

@@ -1,6 +1,3 @@
----
-title: isVisible -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[isVisible](is-visible.md)
 
 

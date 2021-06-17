@@ -1,6 +1,3 @@
----
-title: onKeyPressed -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[onKeyPressed](on-key-pressed.md)
 
 

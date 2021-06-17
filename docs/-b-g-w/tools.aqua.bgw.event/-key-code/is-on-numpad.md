@@ -1,6 +1,3 @@
----
-title: isOnNumpad -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[KeyCode](index.md)/[isOnNumpad](is-on-numpad.md)
 
 

@@ -1,6 +1,3 @@
----
-title: unlock -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameScene](index.md)/[unlock](unlock.md)
 
 

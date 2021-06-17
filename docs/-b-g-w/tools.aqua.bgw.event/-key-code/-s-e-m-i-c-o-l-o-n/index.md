@@ -1,6 +1,3 @@
----
-title: SEMICOLON -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[SEMICOLON](index.md)
 
 

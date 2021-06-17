@@ -1,6 +1,3 @@
----
-title: textArea -
----
 //[BGW](../../index.md)/[dsl](index.md)/[textArea](text-area.md)
 
 

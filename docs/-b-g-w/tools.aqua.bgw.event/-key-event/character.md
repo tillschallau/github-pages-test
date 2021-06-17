@@ -1,6 +1,3 @@
----
-title: character -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[KeyEvent](index.md)/[character](character.md)
 
 

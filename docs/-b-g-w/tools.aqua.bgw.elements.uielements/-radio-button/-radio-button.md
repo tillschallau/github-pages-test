@@ -1,6 +1,3 @@
----
-title: RadioButton -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[RadioButton](index.md)/[RadioButton](-radio-button.md)
 
 

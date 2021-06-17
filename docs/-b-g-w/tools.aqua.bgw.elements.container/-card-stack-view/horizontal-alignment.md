@@ -1,6 +1,3 @@
----
-title: horizontalAlignment -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[CardStackView](index.md)/[horizontalAlignment](horizontal-alignment.md)
 
 

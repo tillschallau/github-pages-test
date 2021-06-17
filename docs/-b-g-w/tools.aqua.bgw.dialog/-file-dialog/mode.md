@@ -1,6 +1,3 @@
----
-title: mode -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.dialog](../index.md)/[FileDialog](index.md)/[mode](mode.md)
 
 

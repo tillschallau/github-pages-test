@@ -1,6 +1,3 @@
----
-title: setCellCenterMode -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[setCellCenterMode](set-cell-center-mode.md)
 
 

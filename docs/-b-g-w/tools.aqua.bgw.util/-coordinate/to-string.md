@@ -1,6 +1,3 @@
----
-title: toString -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[Coordinate](index.md)/[toString](to-string.md)
 
 

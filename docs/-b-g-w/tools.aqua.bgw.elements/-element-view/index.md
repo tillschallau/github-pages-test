@@ -1,6 +1,3 @@
----
-title: ElementView -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)
 
 

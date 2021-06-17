@@ -1,6 +1,3 @@
----
-title: BOTTOM_CENTER -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[Alignment](../index.md)/[BOTTOM_CENTER](index.md)
 
 

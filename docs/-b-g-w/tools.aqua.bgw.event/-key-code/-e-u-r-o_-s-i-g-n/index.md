@@ -1,6 +1,3 @@
----
-title: EURO_SIGN -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[EURO_SIGN](index.md)
 
 

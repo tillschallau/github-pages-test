@@ -1,6 +1,3 @@
----
-title: isSelected -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[ToggleButton](index.md)/[isSelected](is-selected.md)
 
 

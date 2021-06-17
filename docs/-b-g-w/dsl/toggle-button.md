@@ -1,6 +1,3 @@
----
-title: toggleButton -
----
 //[BGW](../../index.md)/[dsl](index.md)/[toggleButton](toggle-button.md)
 
 

@@ -1,6 +1,3 @@
----
-title: FULL -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[ScaleMode](../index.md)/[FULL](index.md)
 
 

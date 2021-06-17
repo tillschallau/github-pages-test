@@ -1,6 +1,3 @@
----
-title: removeFirstOrNull -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[removeFirstOrNull](remove-first-or-null.md)
 
 

@@ -1,6 +1,3 @@
----
-title: RIGHT_PARENTHESIS -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[RIGHT_PARENTHESIS](index.md)
 
 

@@ -1,6 +1,3 @@
----
-title: componentStyle -
----
 //[BGW](../../index.md)/[dsl](index.md)/[componentStyle](component-style.md)
 
 

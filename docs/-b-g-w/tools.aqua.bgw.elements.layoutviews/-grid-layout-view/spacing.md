@@ -1,6 +1,3 @@
----
-title: spacing -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[spacing](spacing.md)
 
 

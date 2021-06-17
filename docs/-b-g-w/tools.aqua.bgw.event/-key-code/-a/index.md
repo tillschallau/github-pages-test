@@ -1,6 +1,3 @@
----
-title: A -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[A](index.md)
 
 

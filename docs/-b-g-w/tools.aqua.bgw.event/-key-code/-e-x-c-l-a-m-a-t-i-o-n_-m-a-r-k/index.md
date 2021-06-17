@@ -1,6 +1,3 @@
----
-title: EXCLAMATION_MARK -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[EXCLAMATION_MARK](index.md)
 
 

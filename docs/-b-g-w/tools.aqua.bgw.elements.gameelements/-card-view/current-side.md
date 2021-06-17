@@ -1,6 +1,3 @@
----
-title: currentSide -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[CardView](index.md)/[currentSide](current-side.md)
 
 

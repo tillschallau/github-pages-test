@@ -1,6 +1,3 @@
----
-title: addElementsListener -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[GameElementContainerView](index.md)/[addElementsListener](add-elements-listener.md)
 
 

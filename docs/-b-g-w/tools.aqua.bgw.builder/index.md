@@ -1,6 +1,3 @@
----
-title: tools.aqua.bgw.builder -
----
 //[BGW](../../index.md)/[tools.aqua.bgw.builder](index.md)
 
 

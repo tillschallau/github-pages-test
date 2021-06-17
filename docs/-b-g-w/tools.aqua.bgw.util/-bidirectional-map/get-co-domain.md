@@ -1,6 +1,3 @@
----
-title: getCoDomain -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[BidirectionalMap](index.md)/[getCoDomain](get-co-domain.md)
 
 

@@ -1,6 +1,3 @@
----
-title: ObjectProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObjectProperty](index.md)/[ObjectProperty](-object-property.md)
 
 

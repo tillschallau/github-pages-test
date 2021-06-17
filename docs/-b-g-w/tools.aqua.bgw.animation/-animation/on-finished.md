@@ -1,6 +1,3 @@
----
-title: onFinished -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[Animation](index.md)/[onFinished](on-finished.md)
 
 

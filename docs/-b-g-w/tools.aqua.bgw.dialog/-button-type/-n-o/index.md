@@ -1,6 +1,3 @@
----
-title: NO -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[NO](index.md)
 
 

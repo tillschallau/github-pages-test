@@ -1,6 +1,3 @@
----
-title: removeForward -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[BidirectionalMap](index.md)/[removeForward](remove-forward.md)
 
 

@@ -1,6 +1,3 @@
----
-title: tools.aqua.bgw.elements.gameelements -
----
 //[BGW](../../index.md)/[tools.aqua.bgw.elements.gameelements](index.md)
 
 

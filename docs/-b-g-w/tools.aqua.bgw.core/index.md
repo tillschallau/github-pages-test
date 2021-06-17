@@ -1,6 +1,3 @@
----
-title: tools.aqua.bgw.core -
----
 //[BGW](../../index.md)/[tools.aqua.bgw.core](index.md)
 
 

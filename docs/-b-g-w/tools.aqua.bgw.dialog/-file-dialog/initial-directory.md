@@ -1,6 +1,3 @@
----
-title: initialDirectory -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.dialog](../index.md)/[FileDialog](index.md)/[initialDirectory](initial-directory.md)
 
 

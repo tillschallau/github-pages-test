@@ -1,6 +1,3 @@
----
-title: CONFIRMATION -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[AlertType](../index.md)/[CONFIRMATION](index.md)
 
 

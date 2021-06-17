@@ -1,6 +1,3 @@
----
-title: peek -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[KStack](index.md)/[peek](peek.md)
 
 

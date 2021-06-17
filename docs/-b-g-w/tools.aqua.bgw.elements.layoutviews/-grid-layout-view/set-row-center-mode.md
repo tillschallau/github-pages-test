@@ -1,6 +1,3 @@
----
-title: setRowCenterMode -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[setRowCenterMode](set-row-center-mode.md)
 
 

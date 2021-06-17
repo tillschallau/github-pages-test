@@ -1,6 +1,3 @@
----
-title: setScaleMode -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[setScaleMode](set-scale-mode.md)
 
 

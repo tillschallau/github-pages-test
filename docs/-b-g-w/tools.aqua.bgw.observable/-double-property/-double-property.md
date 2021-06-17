@@ -1,6 +1,3 @@
----
-title: DoubleProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[DoubleProperty](index.md)/[DoubleProperty](-double-property.md)
 
 

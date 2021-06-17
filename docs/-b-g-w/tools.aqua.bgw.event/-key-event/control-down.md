@@ -1,6 +1,3 @@
----
-title: controlDown -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[KeyEvent](index.md)/[controlDown](control-down.md)
 
 

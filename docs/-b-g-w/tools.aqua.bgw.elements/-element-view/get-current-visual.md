@@ -1,6 +1,3 @@
----
-title: getCurrentVisual -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[getCurrentVisual](get-current-visual.md)
 
 

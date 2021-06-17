@@ -1,6 +1,3 @@
----
-title: DiceView -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[DiceView](index.md)/[DiceView](-dice-view.md)
 
 

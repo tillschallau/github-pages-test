@@ -1,6 +1,3 @@
----
-title: SOPRA_DICE_HEIGHT -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.gameelements](../../index.md)/[DiceView](../index.md)/[Companion](index.md)/[SOPRA_DICE_HEIGHT](-s-o-p-r-a_-d-i-c-e_-h-e-i-g-h-t.md)
 
 

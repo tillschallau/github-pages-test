@@ -1,6 +1,3 @@
----
-title: BGW -
----
 //[BGW](index.md)
 
 

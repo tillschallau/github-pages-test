@@ -1,6 +1,3 @@
----
-title: FINISH -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[FINISH](index.md)
 
 

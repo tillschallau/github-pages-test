@@ -1,6 +1,3 @@
----
-title: positionMultiplier -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[HorizontalAlignment](index.md)/[positionMultiplier](position-multiplier.md)
 
 

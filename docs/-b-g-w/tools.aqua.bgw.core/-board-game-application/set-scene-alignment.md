@@ -1,6 +1,3 @@
----
-title: setSceneAlignment -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[setSceneAlignment](set-scene-alignment.md)
 
 

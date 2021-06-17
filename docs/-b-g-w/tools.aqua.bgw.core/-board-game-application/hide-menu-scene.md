@@ -1,6 +1,3 @@
----
-title: hideMenuScene -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[hideMenuScene](hide-menu-scene.md)
 
 

@@ -1,6 +1,3 @@
----
-title: removeLast -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[removeLast](remove-last.md)
 
 

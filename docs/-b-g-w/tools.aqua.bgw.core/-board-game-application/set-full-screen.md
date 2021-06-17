@@ -1,6 +1,3 @@
----
-title: setFullScreen -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[setFullScreen](set-full-screen.md)
 
 

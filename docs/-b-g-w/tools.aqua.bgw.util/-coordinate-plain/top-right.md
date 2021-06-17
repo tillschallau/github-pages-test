@@ -1,6 +1,3 @@
----
-title: topRight -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[CoordinatePlain](index.md)/[topRight](top-right.md)
 
 

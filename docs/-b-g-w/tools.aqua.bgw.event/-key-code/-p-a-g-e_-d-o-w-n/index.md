@@ -1,6 +1,3 @@
----
-title: PAGE_DOWN -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[PAGE_DOWN](index.md)
 
 

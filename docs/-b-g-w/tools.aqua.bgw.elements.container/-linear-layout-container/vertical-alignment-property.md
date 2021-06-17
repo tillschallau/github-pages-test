@@ -1,6 +1,3 @@
----
-title: verticalAlignmentProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[LinearLayoutContainer](index.md)/[verticalAlignmentProperty](vertical-alignment-property.md)
 
 

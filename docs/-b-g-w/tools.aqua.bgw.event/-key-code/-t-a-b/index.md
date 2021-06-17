@@ -1,6 +1,3 @@
----
-title: TAB -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[TAB](index.md)
 
 

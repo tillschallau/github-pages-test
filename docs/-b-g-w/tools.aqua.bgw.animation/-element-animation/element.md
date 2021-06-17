@@ -1,6 +1,3 @@
----
-title: element -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[ElementAnimation](index.md)/[element](element.md)
 
 

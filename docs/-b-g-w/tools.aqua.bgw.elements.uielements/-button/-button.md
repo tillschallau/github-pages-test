@@ -1,6 +1,3 @@
----
-title: Button -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[Button](index.md)/[Button](-button.md)
 
 

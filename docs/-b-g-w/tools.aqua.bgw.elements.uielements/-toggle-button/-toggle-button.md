@@ -1,6 +1,3 @@
----
-title: ToggleButton -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[ToggleButton](index.md)/[ToggleButton](-toggle-button.md)
 
 

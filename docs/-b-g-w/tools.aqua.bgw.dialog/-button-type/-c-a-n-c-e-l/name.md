@@ -1,6 +1,3 @@
----
-title: name -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[CANCEL](index.md)/[name](name.md)
 
 

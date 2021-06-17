@@ -1,6 +1,3 @@
----
-title: name -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[MouseButtonType](../index.md)/[MOUSE_WHEEL](index.md)/[name](name.md)
 
 

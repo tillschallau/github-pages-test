@@ -1,6 +1,3 @@
----
-title: toggleGroup -
----
 //[BGW](../../index.md)/[dsl](index.md)/[toggleGroup](toggle-group.md)
 
 

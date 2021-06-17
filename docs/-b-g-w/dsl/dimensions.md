@@ -1,6 +1,3 @@
----
-title: dimensions -
----
 //[BGW](../../index.md)/[dsl](index.md)/[dimensions](dimensions.md)
 
 

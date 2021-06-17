@@ -1,6 +1,3 @@
----
-title: EmptyListException -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.exception](../index.md)/[EmptyListException](index.md)/[EmptyListException](-empty-list-exception.md)
 
 

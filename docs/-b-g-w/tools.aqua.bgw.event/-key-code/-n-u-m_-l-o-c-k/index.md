@@ -1,6 +1,3 @@
----
-title: NUM_LOCK -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[NUM_LOCK](index.md)
 
 

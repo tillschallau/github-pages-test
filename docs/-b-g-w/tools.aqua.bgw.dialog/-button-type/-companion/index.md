@@ -1,6 +1,3 @@
----
-title: Companion -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[Companion](index.md)
 
 

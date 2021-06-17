@@ -1,6 +1,3 @@
----
-title: grid -
----
 //[BGW](../../index.md)/[dsl](index.md)/[grid](grid.md)
 
 

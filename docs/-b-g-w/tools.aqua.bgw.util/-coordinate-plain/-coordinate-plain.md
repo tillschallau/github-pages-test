@@ -1,6 +1,3 @@
----
-title: CoordinatePlain -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[CoordinatePlain](index.md)/[CoordinatePlain](-coordinate-plain.md)
 
 

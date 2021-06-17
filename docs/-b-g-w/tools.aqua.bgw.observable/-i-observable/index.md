@@ -1,6 +1,3 @@
----
-title: IObservable -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[IObservable](index.md)
 
 

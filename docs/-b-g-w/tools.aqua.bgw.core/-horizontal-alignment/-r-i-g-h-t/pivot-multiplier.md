@@ -1,6 +1,3 @@
----
-title: pivotMultiplier -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[HorizontalAlignment](../index.md)/[RIGHT](index.md)/[pivotMultiplier](pivot-multiplier.md)
 
 

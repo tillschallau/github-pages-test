@@ -1,6 +1,3 @@
----
-title: CONTEXT_MENU -
----
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[CONTEXT_MENU](index.md)
 
 

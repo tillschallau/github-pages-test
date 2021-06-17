@@ -1,6 +1,3 @@
----
-title: formatFunction -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[TableColumn](index.md)/[formatFunction](format-function.md)
 
 

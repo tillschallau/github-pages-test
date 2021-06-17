@@ -1,6 +1,3 @@
----
-title: isLetter -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[KeyCode](index.md)/[isLetter](is-letter.md)
 
 

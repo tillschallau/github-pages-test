@@ -1,6 +1,3 @@
----
-title: currentSideProperty -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[CardView](index.md)/[currentSideProperty](current-side-property.md)
 
 

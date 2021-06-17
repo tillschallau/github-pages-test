@@ -1,6 +1,3 @@
----
-title: MouseButtonType -
----
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[MouseButtonType](index.md)
 
 
@@ -27,6 +24,6 @@ Enum for all available mouse buttons.
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.event/MouseButtonType/name/#/PointingToDeclaration/"></a>[name](index.md#-1211048412%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.event/MouseButtonType/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#-1211048412%2FProperties%2F-302347323): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
-| <a name="tools.aqua.bgw.event/MouseButtonType/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#-1143626086%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.event/MouseButtonType/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#-1143626086%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
+| <a name="tools.aqua.bgw.event/MouseButtonType/name/#/PointingToDeclaration/"></a>[name](index.md#-1211048412%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.event/MouseButtonType/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#-1211048412%2FProperties%2F-1902411840): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="tools.aqua.bgw.event/MouseButtonType/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#-1143626086%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.event/MouseButtonType/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#-1143626086%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
 
