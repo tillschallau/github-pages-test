@@ -1,3 +1,6 @@
+---
+title: name -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[EURO_SIGN](index.md)/[name](name.md)
 
 

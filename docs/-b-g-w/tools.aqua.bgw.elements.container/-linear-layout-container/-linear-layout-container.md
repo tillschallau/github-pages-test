@@ -1,3 +1,6 @@
+---
+title: LinearLayoutContainer -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[LinearLayoutContainer](index.md)/[LinearLayoutContainer](-linear-layout-container.md)
 
 

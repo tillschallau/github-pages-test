@@ -1,3 +1,6 @@
+---
+title: addColumns -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[addColumns](add-columns.md)
 
 

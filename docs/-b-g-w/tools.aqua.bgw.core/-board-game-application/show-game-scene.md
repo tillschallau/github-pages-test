@@ -1,3 +1,6 @@
+---
+title: showGameScene -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[showGameScene](show-game-scene.md)
 
 

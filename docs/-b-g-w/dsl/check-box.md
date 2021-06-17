@@ -1,3 +1,6 @@
+---
+title: checkBox -
+---
 //[BGW](../../index.md)/[dsl](index.md)/[checkBox](check-box.md)
 
 

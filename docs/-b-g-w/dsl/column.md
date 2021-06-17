@@ -1,3 +1,6 @@
+---
+title: column -
+---
 //[BGW](../../index.md)/[dsl](index.md)/[column](column.md)
 
 

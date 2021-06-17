@@ -1,3 +1,6 @@
+---
+title: tools.aqua.bgw.elements.layoutviews -
+---
 //[BGW](../../index.md)/[tools.aqua.bgw.elements.layoutviews](index.md)
 
 

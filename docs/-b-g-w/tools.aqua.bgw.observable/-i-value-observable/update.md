@@ -1,3 +1,6 @@
+---
+title: update -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[IValueObservable](index.md)/[update](update.md)
 
 

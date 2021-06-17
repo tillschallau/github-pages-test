@@ -1,3 +1,6 @@
+---
+title: isArrow -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[KeyCode](index.md)/[isArrow](is-arrow.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: extensionFilters -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.dialog](../index.md)/[FileDialog](index.md)/[extensionFilters](extension-filters.md)
 
 

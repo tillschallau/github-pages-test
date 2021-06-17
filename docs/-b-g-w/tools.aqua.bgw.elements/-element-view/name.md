@@ -1,3 +1,6 @@
+---
+title: name -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[name](name.md)
 
 

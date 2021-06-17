@@ -1,3 +1,6 @@
+---
+title: label -
+---
 //[BGW](../../index.md)/[dsl](index.md)/[label](label.md)
 
 

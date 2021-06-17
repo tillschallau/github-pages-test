@@ -1,3 +1,6 @@
+---
+title: SAVE_FILE -
+---
 //[BGW](../../../../../index.md)/[tools.aqua.bgw.dialog](../../../index.md)/[FileDialog](../../index.md)/[FileDialogMode](../index.md)/[SAVE_FILE](index.md)
 
 

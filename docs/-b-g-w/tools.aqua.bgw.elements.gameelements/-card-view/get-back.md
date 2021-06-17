@@ -1,3 +1,6 @@
+---
+title: getBack -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[CardView](index.md)/[getBack](get-back.md)
 
 

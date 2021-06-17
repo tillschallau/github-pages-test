@@ -1,3 +1,6 @@
+---
+title: addElements -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[addElements](add-elements.md)
 
 

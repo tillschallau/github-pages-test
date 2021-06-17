@@ -1,3 +1,6 @@
+---
+title: indexOf -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[indexOf](index-of.md)
 
 

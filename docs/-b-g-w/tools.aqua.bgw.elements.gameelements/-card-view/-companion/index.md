@@ -1,3 +1,6 @@
+---
+title: Companion -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.gameelements](../../index.md)/[CardView](../index.md)/[Companion](index.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: fromY -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[MovementAnimation](index.md)/[fromY](from-y.md)
 
 

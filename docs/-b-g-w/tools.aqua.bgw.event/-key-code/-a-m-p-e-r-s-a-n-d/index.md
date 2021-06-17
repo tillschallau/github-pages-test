@@ -1,3 +1,6 @@
+---
+title: AMPERSAND -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[AMPERSAND](index.md)
 
 

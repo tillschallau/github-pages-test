@@ -1,3 +1,6 @@
+---
+title: tools.aqua.bgw.dialog -
+---
 //[BGW](../../index.md)/[tools.aqua.bgw.dialog](index.md)
 
 

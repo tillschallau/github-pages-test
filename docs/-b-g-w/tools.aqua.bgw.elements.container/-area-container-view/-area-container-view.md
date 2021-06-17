@@ -1,3 +1,6 @@
+---
+title: AreaContainerView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[AreaContainerView](index.md)/[AreaContainerView](-area-container-view.md)
 
 

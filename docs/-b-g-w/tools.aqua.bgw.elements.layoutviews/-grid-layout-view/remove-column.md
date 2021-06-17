@@ -1,3 +1,6 @@
+---
+title: removeColumn -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[removeColumn](remove-column.md)
 
 

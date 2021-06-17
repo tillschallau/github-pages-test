@@ -1,3 +1,6 @@
+---
+title: HORIZONTAL -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.uielements](../../index.md)/[Orientation](../index.md)/[HORIZONTAL](index.md)
 
 

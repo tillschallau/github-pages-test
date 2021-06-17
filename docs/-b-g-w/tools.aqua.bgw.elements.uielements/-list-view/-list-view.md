@@ -1,3 +1,6 @@
+---
+title: ListView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[ListView](index.md)/[ListView](-list-view.md)
 
 

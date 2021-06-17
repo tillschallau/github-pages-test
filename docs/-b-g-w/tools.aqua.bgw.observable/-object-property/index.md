@@ -1,3 +1,6 @@
+---
+title: ObjectProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObjectProperty](index.md)
 
 
@@ -43,5 +46,5 @@ jvm
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.observable/ObjectProperty/value/#/PointingToDeclaration/"></a>[value](index.md#-2050503946%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.observable/ObjectProperty/value/#/PointingToDeclaration/"></a> [jvm] var [value](index.md#-2050503946%2FProperties%2F-1902411840): [T](index.md)Value of this property.   <br>|
+| <a name="tools.aqua.bgw.observable/ObjectProperty/value/#/PointingToDeclaration/"></a>[value](index.md#-2050503946%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.observable/ObjectProperty/value/#/PointingToDeclaration/"></a> [jvm] var [value](index.md#-2050503946%2FProperties%2F-302347323): [T](index.md)Value of this property.   <br>|
 

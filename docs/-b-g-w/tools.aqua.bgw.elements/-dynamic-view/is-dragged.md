@@ -1,3 +1,6 @@
+---
+title: isDragged -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[DynamicView](index.md)/[isDragged](is-dragged.md)
 
 

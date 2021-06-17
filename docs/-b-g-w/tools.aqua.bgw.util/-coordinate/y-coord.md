@@ -1,3 +1,6 @@
+---
+title: yCoord -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[Coordinate](index.md)/[yCoord](y-coord.md)
 
 

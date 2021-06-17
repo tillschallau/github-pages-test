@@ -1,3 +1,6 @@
+---
+title: text -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[UIElementView](index.md)/[text](text.md)
 
 

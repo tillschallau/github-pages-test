@@ -1,3 +1,6 @@
+---
+title: CardStackView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[CardStackView](index.md)/[CardStackView](-card-stack-view.md)
 
 

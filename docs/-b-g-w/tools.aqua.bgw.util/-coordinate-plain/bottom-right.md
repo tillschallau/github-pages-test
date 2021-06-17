@@ -1,3 +1,6 @@
+---
+title: bottomRight -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[CoordinatePlain](index.md)/[bottomRight](bottom-right.md)
 
 

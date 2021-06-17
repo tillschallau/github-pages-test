@@ -1,3 +1,6 @@
+---
+title: isEmpty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[GameElementContainerView](index.md)/[isEmpty](is-empty.md)
 
 

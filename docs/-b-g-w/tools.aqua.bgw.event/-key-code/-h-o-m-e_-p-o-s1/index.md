@@ -1,3 +1,6 @@
+---
+title: HOME_POS1 -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[HOME_POS1](index.md)
 
 

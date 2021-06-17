@@ -1,3 +1,6 @@
+---
+title: ROW_HEIGHT_AUTO -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../../index.md)/[GridLayoutView](../index.md)/[Companion](index.md)/[ROW_HEIGHT_AUTO](-r-o-w_-h-e-i-g-h-t_-a-u-t-o.md)
 
 

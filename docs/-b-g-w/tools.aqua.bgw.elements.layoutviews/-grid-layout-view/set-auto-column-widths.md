@@ -1,3 +1,6 @@
+---
+title: setAutoColumnWidths -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[setAutoColumnWidths](set-auto-column-widths.md)
 
 

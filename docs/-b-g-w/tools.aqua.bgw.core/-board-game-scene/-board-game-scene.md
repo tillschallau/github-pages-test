@@ -1,3 +1,6 @@
+---
+title: BoardGameScene -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameScene](index.md)/[BoardGameScene](-board-game-scene.md)
 
 

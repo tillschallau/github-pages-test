@@ -1,3 +1,6 @@
+---
+title: text -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[PREVIOUS](index.md)/[text](text.md)
 
 

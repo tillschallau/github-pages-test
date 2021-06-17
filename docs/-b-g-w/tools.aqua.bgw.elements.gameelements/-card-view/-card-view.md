@@ -1,3 +1,6 @@
+---
+title: CardView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[CardView](index.md)/[CardView](-card-view.md)
 
 

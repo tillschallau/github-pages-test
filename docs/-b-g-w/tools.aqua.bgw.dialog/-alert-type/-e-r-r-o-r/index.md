@@ -1,3 +1,6 @@
+---
+title: ERROR -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[AlertType](../index.md)/[ERROR](index.md)
 
 

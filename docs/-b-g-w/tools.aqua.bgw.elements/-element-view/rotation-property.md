@@ -1,3 +1,6 @@
+---
+title: rotationProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[rotationProperty](rotation-property.md)
 
 

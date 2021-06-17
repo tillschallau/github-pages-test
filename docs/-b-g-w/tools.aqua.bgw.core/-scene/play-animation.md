@@ -1,3 +1,6 @@
+---
+title: playAnimation -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[playAnimation](play-animation.md)
 
 

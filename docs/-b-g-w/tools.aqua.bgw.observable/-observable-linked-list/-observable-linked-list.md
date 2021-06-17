@@ -1,3 +1,6 @@
+---
+title: ObservableLinkedList -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableLinkedList](index.md)/[ObservableLinkedList](-observable-linked-list.md)
 
 

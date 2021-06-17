@@ -1,3 +1,6 @@
+---
+title: setVerticalSceneAlignment -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[setVerticalSceneAlignment](set-vertical-scene-alignment.md)
 
 

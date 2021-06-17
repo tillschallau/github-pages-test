@@ -1,3 +1,6 @@
+---
+title: removeElements -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[removeElements](remove-elements.md)
 
 

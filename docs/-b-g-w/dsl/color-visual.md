@@ -1,3 +1,6 @@
+---
+title: colorVisual -
+---
 //[BGW](../../index.md)/[dsl](index.md)/[colorVisual](color-visual.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: removeElement -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[CardStackView](index.md)/[removeElement](remove-element.md)
 
 

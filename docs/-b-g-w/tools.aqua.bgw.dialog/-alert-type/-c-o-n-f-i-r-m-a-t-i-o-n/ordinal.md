@@ -1,3 +1,6 @@
+---
+title: ordinal -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[AlertType](../index.md)/[CONFIRMATION](index.md)/[ordinal](ordinal.md)
 
 

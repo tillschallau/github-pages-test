@@ -1,3 +1,6 @@
+---
+title: remove -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[remove](remove.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: children -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[CompoundVisual](index.md)/[children](children.md)
 
 

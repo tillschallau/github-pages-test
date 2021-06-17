@@ -1,3 +1,6 @@
+---
+title: ordinal -
+---
 //[BGW](../../../../../index.md)/[tools.aqua.bgw.dialog](../../../index.md)/[FileDialog](../../index.md)/[FileDialogMode](../index.md)/[OPEN_FILE](index.md)/[ordinal](ordinal.md)
 
 

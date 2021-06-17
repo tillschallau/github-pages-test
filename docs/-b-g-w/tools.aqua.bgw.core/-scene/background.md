@@ -1,3 +1,6 @@
+---
+title: background -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[background](background.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: DragDropHelper -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.builder](../index.md)/[DragDropHelper](index.md)/[DragDropHelper](-drag-drop-helper.md)
 
 

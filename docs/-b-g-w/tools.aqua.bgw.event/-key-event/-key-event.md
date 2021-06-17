@@ -1,3 +1,6 @@
+---
+title: KeyEvent -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[KeyEvent](index.md)/[KeyEvent](-key-event.md)
 
 

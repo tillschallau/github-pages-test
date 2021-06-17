@@ -1,3 +1,6 @@
+---
+title: HorizontalAlignment -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[HorizontalAlignment](index.md)
 
 
@@ -45,8 +48,8 @@ jvm
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.core/HorizontalAlignment/name/#/PointingToDeclaration/"></a>[name](index.md#-969269235%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.core/HorizontalAlignment/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#-969269235%2FProperties%2F-1902411840): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
-| <a name="tools.aqua.bgw.core/HorizontalAlignment/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#-960319471%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.core/HorizontalAlignment/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#-960319471%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
+| <a name="tools.aqua.bgw.core/HorizontalAlignment/name/#/PointingToDeclaration/"></a>[name](index.md#-969269235%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.core/HorizontalAlignment/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#-969269235%2FProperties%2F-302347323): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="tools.aqua.bgw.core/HorizontalAlignment/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#-960319471%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.core/HorizontalAlignment/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#-960319471%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
 | <a name="tools.aqua.bgw.core/HorizontalAlignment/pivotMultiplier/#/PointingToDeclaration/"></a>[pivotMultiplier](pivot-multiplier.md)| <a name="tools.aqua.bgw.core/HorizontalAlignment/pivotMultiplier/#/PointingToDeclaration/"></a> [jvm] val [pivotMultiplier](pivot-multiplier.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)Pivot multiplier   <br>|
 | <a name="tools.aqua.bgw.core/HorizontalAlignment/positionMultiplier/#/PointingToDeclaration/"></a>[positionMultiplier](position-multiplier.md)| <a name="tools.aqua.bgw.core/HorizontalAlignment/positionMultiplier/#/PointingToDeclaration/"></a> [jvm] val [positionMultiplier](position-multiplier.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)Position multiplier   <br>|
 

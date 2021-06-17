@@ -1,3 +1,6 @@
+---
+title: duration -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[Animation](index.md)/[duration](duration.md)
 
 

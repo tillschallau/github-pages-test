@@ -1,3 +1,6 @@
+---
+title: removeLastOrNull -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[removeLastOrNull](remove-last-or-null.md)
 
 

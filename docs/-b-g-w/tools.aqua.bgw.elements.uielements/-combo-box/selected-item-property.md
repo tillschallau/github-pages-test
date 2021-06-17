@@ -1,3 +1,6 @@
+---
+title: selectedItemProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[ComboBox](index.md)/[selectedItemProperty](selected-item-property.md)
 
 

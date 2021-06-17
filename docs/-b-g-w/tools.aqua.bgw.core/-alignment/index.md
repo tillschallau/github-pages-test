@@ -1,3 +1,6 @@
+---
+title: Alignment -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Alignment](index.md)
 
 
@@ -54,7 +57,7 @@ jvm
 |  Name |  Summary | 
 |---|---|
 | <a name="tools.aqua.bgw.core/Alignment/horizontalAlignment/#/PointingToDeclaration/"></a>[horizontalAlignment](horizontal-alignment.md)| <a name="tools.aqua.bgw.core/Alignment/horizontalAlignment/#/PointingToDeclaration/"></a> [jvm] val [horizontalAlignment](horizontal-alignment.md): [HorizontalAlignment](../-horizontal-alignment/index.md)Horizontal alignment component   <br>|
-| <a name="tools.aqua.bgw.core/Alignment/name/#/PointingToDeclaration/"></a>[name](index.md#888516241%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.core/Alignment/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#888516241%2FProperties%2F-1902411840): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
-| <a name="tools.aqua.bgw.core/Alignment/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#-621780211%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.core/Alignment/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#-621780211%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
+| <a name="tools.aqua.bgw.core/Alignment/name/#/PointingToDeclaration/"></a>[name](index.md#888516241%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.core/Alignment/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#888516241%2FProperties%2F-302347323): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="tools.aqua.bgw.core/Alignment/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#-621780211%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.core/Alignment/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#-621780211%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
 | <a name="tools.aqua.bgw.core/Alignment/verticalAlignment/#/PointingToDeclaration/"></a>[verticalAlignment](vertical-alignment.md)| <a name="tools.aqua.bgw.core/Alignment/verticalAlignment/#/PointingToDeclaration/"></a> [jvm] val [verticalAlignment](vertical-alignment.md): [VerticalAlignment](../-vertical-alignment/index.md)Vertical alignment component   <br>|
 

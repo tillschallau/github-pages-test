@@ -1,3 +1,6 @@
+---
+title: color -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[ColorVisual](index.md)/[color](color.md)
 
 

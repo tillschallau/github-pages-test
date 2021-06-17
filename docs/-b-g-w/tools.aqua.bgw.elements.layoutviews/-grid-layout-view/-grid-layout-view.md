@@ -1,3 +1,6 @@
+---
+title: GridLayoutView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[GridLayoutView](-grid-layout-view.md)
 
 

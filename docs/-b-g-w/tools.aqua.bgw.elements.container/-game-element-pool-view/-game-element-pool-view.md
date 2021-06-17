@@ -1,3 +1,6 @@
+---
+title: GameElementPoolView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[GameElementPoolView](index.md)/[GameElementPoolView](-game-element-pool-view.md)
 
 

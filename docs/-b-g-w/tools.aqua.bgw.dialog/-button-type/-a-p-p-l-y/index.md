@@ -1,3 +1,6 @@
+---
+title: APPLY -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[APPLY](index.md)
 
 

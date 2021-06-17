@@ -1,3 +1,6 @@
+---
+title: setRowHeights -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[setRowHeights](set-row-heights.md)
 
 

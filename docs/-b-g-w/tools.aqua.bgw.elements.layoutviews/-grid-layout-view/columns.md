@@ -1,3 +1,6 @@
+---
+title: columns -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[columns](columns.md)
 
 

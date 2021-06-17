@@ -1,3 +1,6 @@
+---
+title: Label -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[Label](index.md)/[Label](-label.md)
 
 

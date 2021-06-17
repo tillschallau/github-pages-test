@@ -1,3 +1,6 @@
+---
+title: getFront -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[CardView](index.md)/[getFront](get-front.md)
 
 

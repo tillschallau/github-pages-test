@@ -1,3 +1,6 @@
+---
+title: set -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[set](set.md)
 
 

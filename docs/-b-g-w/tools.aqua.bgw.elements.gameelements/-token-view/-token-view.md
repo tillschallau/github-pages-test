@@ -1,3 +1,6 @@
+---
+title: TokenView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[TokenView](index.md)/[TokenView](-token-view.md)
 
 

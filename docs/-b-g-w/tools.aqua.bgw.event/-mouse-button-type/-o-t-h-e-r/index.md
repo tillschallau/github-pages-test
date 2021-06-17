@@ -1,3 +1,6 @@
+---
+title: OTHER -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[MouseButtonType](../index.md)/[OTHER](index.md)
 
 

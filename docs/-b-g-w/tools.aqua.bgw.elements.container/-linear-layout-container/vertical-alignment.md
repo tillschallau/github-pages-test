@@ -1,3 +1,6 @@
+---
+title: verticalAlignment -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[LinearLayoutContainer](index.md)/[verticalAlignment](vertical-alignment.md)
 
 

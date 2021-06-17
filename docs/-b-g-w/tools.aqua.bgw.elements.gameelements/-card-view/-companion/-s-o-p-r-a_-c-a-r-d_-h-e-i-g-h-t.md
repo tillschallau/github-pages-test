@@ -1,3 +1,6 @@
+---
+title: SOPRA_CARD_HEIGHT -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.gameelements](../../index.md)/[CardView](../index.md)/[Companion](index.md)/[SOPRA_CARD_HEIGHT](-s-o-p-r-a_-c-a-r-d_-h-e-i-g-h-t.md)
 
 

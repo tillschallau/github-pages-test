@@ -1,3 +1,6 @@
+---
+title: SOPRA_CARD_WIDTH -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.gameelements](../../index.md)/[CardView](../index.md)/[Companion](index.md)/[SOPRA_CARD_WIDTH](-s-o-p-r-a_-c-a-r-d_-w-i-d-t-h.md)
 
 

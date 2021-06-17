@@ -1,3 +1,6 @@
+---
+title: ComboBox -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[ComboBox](index.md)/[ComboBox](-combo-box.md)
 
 

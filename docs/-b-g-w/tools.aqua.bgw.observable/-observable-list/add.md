@@ -1,3 +1,6 @@
+---
+title: add -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[add](add.md)
 
 

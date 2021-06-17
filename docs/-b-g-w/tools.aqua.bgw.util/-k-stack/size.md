@@ -1,3 +1,6 @@
+---
+title: size -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[KStack](index.md)/[size](size.md)
 
 

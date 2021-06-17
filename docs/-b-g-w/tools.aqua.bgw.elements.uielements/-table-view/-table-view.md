@@ -1,3 +1,6 @@
+---
+title: TableView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[TableView](index.md)/[TableView](-table-view.md)
 
 

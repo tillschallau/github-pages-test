@@ -1,3 +1,6 @@
+---
+title: setHorizontalSceneAlignment -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[setHorizontalSceneAlignment](set-horizontal-scene-alignment.md)
 
 

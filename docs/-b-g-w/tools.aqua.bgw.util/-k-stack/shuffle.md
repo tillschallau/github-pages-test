@@ -1,3 +1,6 @@
+---
+title: shuffle -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[KStack](index.md)/[shuffle](shuffle.md)
 
 

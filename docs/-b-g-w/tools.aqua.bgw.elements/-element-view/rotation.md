@@ -1,3 +1,6 @@
+---
+title: rotation -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[rotation](rotation.md)
 
 

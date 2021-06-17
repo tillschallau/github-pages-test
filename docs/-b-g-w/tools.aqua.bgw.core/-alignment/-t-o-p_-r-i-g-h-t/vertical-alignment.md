@@ -1,3 +1,6 @@
+---
+title: verticalAlignment -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[Alignment](../index.md)/[TOP_RIGHT](index.md)/[verticalAlignment](vertical-alignment.md)
 
 

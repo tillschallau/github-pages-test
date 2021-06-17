@@ -1,3 +1,6 @@
+---
+title: showSide -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[DiceView](index.md)/[showSide](show-side.md)
 
 

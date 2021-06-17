@@ -1,3 +1,6 @@
+---
+title: Event -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[Event](index.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: NO_SCALE -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[ScaleMode](../index.md)/[NO_SCALE](index.md)
 
 

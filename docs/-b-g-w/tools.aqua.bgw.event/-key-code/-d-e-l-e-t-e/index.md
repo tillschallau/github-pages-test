@@ -1,3 +1,6 @@
+---
+title: DELETE -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[DELETE](index.md)
 
 

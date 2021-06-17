@@ -1,3 +1,6 @@
+---
+title: Companion -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../../index.md)/[GridLayoutView](../index.md)/[Companion](index.md)
 
 

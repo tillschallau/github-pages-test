@@ -1,3 +1,6 @@
+---
+title: verticalAlignmentProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[CardStackView](index.md)/[verticalAlignmentProperty](vertical-alignment-property.md)
 
 

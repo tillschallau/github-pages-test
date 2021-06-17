@@ -1,3 +1,6 @@
+---
+title: title -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.dialog](../index.md)/[FileDialog](index.md)/[title](title.md)
 
 

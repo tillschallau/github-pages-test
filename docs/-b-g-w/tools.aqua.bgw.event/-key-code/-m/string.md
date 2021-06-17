@@ -1,3 +1,6 @@
+---
+title: string -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[M](index.md)/[string](string.md)
 
 

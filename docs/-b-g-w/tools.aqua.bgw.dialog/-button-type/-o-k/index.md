@@ -1,3 +1,6 @@
+---
+title: OK -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[OK](index.md)
 
 

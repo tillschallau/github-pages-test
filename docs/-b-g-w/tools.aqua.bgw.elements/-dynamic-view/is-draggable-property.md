@@ -1,3 +1,6 @@
+---
+title: isDraggableProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[DynamicView](index.md)/[isDraggableProperty](is-draggable-property.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: KeyCode -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[KeyCode](index.md)
 
 
@@ -166,7 +169,7 @@ jvm
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.event/KeyCode/name/#/PointingToDeclaration/"></a>[name](index.md#668411327%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.event/KeyCode/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#668411327%2FProperties%2F-1902411840): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
-| <a name="tools.aqua.bgw.event/KeyCode/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#647787807%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.event/KeyCode/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#647787807%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
+| <a name="tools.aqua.bgw.event/KeyCode/name/#/PointingToDeclaration/"></a>[name](index.md#668411327%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.event/KeyCode/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#668411327%2FProperties%2F-302347323): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="tools.aqua.bgw.event/KeyCode/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#647787807%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.event/KeyCode/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#647787807%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
 | <a name="tools.aqua.bgw.event/KeyCode/string/#/PointingToDeclaration/"></a>[string](string.md)| <a name="tools.aqua.bgw.event/KeyCode/string/#/PointingToDeclaration/"></a> [jvm] val [string](string.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)Key name   <br>|
 

@@ -1,3 +1,6 @@
+---
+title: YES -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.dialog](../../index.md)/[ButtonType](../index.md)/[YES](index.md)
 
 

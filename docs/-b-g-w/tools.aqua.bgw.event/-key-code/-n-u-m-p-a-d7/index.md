@@ -1,3 +1,6 @@
+---
+title: NUMPAD7 -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[NUMPAD7](index.md)
 
 

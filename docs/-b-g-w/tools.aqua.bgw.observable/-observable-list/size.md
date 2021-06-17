@@ -1,3 +1,6 @@
+---
+title: size -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[size](size.md)
 
 

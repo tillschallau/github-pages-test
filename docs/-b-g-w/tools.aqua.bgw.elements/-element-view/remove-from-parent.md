@@ -1,3 +1,6 @@
+---
+title: removeFromParent -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[removeFromParent](remove-from-parent.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: fromVisual -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[FlipAnimation](index.md)/[fromVisual](from-visual.md)
 
 

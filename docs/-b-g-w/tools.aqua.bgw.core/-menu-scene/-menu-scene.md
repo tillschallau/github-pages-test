@@ -1,3 +1,6 @@
+---
+title: MenuScene -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[MenuScene](index.md)/[MenuScene](-menu-scene.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: toAngle -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[RotationAnimation](index.md)/[toAngle](to-angle.md)
 
 

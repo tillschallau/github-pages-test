@@ -1,3 +1,6 @@
+---
+title: DynamicView -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[DynamicView](index.md)/[DynamicView](-dynamic-view.md)
 
 

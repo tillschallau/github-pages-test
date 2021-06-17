@@ -1,3 +1,6 @@
+---
+title: contains -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[contains](contains.md)
 
 

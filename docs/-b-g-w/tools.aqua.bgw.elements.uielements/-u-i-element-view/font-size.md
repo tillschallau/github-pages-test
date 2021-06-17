@@ -1,3 +1,6 @@
+---
+title: fontSize -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[UIElementView](index.md)/[fontSize](font-size.md)
 
 

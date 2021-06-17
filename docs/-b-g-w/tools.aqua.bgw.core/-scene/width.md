@@ -1,3 +1,6 @@
+---
+title: width -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[width](width.md)
 
 

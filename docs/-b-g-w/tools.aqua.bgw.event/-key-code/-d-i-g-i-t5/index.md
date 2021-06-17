@@ -1,3 +1,6 @@
+---
+title: DIGIT5 -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[DIGIT5](index.md)
 
 

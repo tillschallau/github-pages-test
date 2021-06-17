@@ -1,3 +1,6 @@
+---
+title: NUMPAD9 -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[NUMPAD9](index.md)
 
 

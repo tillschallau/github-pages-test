@@ -1,3 +1,6 @@
+---
+title: onKeyTyped -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[onKeyTyped](on-key-typed.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: DelayAnimation -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[DelayAnimation](index.md)/[DelayAnimation](-delay-animation.md)
 
 

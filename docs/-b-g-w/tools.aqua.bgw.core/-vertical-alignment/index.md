@@ -1,3 +1,6 @@
+---
+title: VerticalAlignment -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[VerticalAlignment](index.md)
 
 
@@ -45,6 +48,6 @@ jvm
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.core/VerticalAlignment/name/#/PointingToDeclaration/"></a>[name](index.md#-1614664901%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.core/VerticalAlignment/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#-1614664901%2FProperties%2F-1902411840): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
-| <a name="tools.aqua.bgw.core/VerticalAlignment/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#625978915%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.core/VerticalAlignment/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#625978915%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
+| <a name="tools.aqua.bgw.core/VerticalAlignment/name/#/PointingToDeclaration/"></a>[name](index.md#-1614664901%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.core/VerticalAlignment/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#-1614664901%2FProperties%2F-302347323): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="tools.aqua.bgw.core/VerticalAlignment/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#625978915%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.core/VerticalAlignment/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#625978915%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
 

@@ -1,3 +1,6 @@
+---
+title: CompoundVisual -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[CompoundVisual](index.md)/[CompoundVisual](-compound-visual.md)
 
 

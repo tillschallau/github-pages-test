@@ -1,3 +1,6 @@
+---
+title: onDragGestureStarted -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[DynamicView](index.md)/[onDragGestureStarted](on-drag-gesture-started.md)
 
 

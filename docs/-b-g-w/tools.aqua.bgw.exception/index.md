@@ -1,3 +1,6 @@
+---
+title: tools.aqua.bgw.exception -
+---
 //[BGW](../../index.md)/[tools.aqua.bgw.exception](index.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: menuScene -
+---
 //[BGW](../../index.md)/[dsl](index.md)/[menuScene](menu-scene.md)
 
 

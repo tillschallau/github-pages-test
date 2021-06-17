@@ -1,3 +1,6 @@
+---
+title: horizontalAlignment -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.core](../../index.md)/[Alignment](../index.md)/[TOP_LEFT](index.md)/[horizontalAlignment](horizontal-alignment.md)
 
 

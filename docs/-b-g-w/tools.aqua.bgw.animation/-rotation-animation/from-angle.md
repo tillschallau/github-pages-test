@@ -1,3 +1,6 @@
+---
+title: fromAngle -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.animation](../index.md)/[RotationAnimation](index.md)/[fromAngle](from-angle.md)
 
 

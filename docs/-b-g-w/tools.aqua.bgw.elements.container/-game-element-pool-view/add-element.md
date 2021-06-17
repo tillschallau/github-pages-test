@@ -1,3 +1,6 @@
+---
+title: addElement -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[GameElementPoolView](index.md)/[addElement](add-element.md)
 
 

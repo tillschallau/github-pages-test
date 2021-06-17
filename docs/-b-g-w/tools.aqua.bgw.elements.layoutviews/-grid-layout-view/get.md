@@ -1,3 +1,6 @@
+---
+title: get -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.layoutviews](../index.md)/[GridLayoutView](index.md)/[get](get.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: GREATER -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[GREATER](index.md)
 
 

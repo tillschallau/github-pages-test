@@ -1,3 +1,6 @@
+---
+title: isEmpty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[KStack](index.md)/[isEmpty](is-empty.md)
 
 

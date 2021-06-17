@@ -1,3 +1,6 @@
+---
+title: removeFirst -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.observable](../index.md)/[ObservableList](index.md)/[removeFirst](remove-first.md)
 
 

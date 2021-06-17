@@ -1,3 +1,6 @@
+---
+title: width -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.util](../index.md)/[CoordinatePlain](index.md)/[width](width.md)
 
 

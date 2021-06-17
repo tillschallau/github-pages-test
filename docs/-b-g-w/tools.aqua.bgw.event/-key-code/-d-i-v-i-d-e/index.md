@@ -1,3 +1,6 @@
+---
+title: DIVIDE -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[DIVIDE](index.md)
 
 

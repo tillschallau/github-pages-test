@@ -1,3 +1,6 @@
+---
+title: posYProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[posYProperty](pos-y-property.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: showFileDialog -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[BoardGameApplication](index.md)/[showFileDialog](show-file-dialog.md)
 
 

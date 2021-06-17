@@ -1,4 +1,4 @@
-$dokka.format:gfm-v1
+$dokka.format:jekyll-v1
 $dokka.linkExtension:md
 $dokka.location:dsl////PointingToDeclaration/-b-g-w/dsl/index.md
 $dokka.location:dsl//appendData/tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])]#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-b-g-w/dsl/append-data.md

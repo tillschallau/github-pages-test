@@ -1,3 +1,6 @@
+---
+title: Companion -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.visual](../../index.md)/[ImageVisual](../index.md)/[Companion](index.md)
 
 

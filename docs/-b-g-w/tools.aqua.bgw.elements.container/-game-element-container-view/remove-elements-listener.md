@@ -1,3 +1,6 @@
+---
+title: removeElementsListener -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[GameElementContainerView](index.md)/[removeElementsListener](remove-elements-listener.md)
 
 

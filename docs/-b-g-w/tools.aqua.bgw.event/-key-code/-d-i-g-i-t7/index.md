@@ -1,3 +1,6 @@
+---
+title: DIGIT7 -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[DIGIT7](index.md)
 
 

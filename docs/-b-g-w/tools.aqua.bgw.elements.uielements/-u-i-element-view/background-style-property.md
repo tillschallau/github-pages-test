@@ -1,3 +1,6 @@
+---
+title: backgroundStyleProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[UIElementView](index.md)/[backgroundStyleProperty](background-style-property.md)
 
 

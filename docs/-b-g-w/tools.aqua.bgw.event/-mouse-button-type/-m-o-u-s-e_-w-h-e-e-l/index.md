@@ -1,3 +1,6 @@
+---
+title: MOUSE_WHEEL -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[MouseButtonType](../index.md)/[MOUSE_WHEEL](index.md)
 
 

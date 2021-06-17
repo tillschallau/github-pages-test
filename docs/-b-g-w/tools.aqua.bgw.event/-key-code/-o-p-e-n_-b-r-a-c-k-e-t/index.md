@@ -1,3 +1,6 @@
+---
+title: OPEN_BRACKET -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[OPEN_BRACKET](index.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: zoomOut -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[zoomOut](zoom-out.md)
 
 

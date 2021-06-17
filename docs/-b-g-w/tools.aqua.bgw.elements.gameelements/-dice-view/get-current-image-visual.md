@@ -1,3 +1,6 @@
+---
+title: getCurrentImageVisual -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.gameelements](../index.md)/[DiceView](index.md)/[getCurrentImageVisual](get-current-image-visual.md)
 
 

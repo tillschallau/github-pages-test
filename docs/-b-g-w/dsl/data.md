@@ -1,3 +1,6 @@
+---
+title: data -
+---
 //[BGW](../../index.md)/[dsl](index.md)/[data](data.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: name -
+---
 //[BGW](../../../../../index.md)/[tools.aqua.bgw.dialog](../../../index.md)/[FileDialog](../../index.md)/[FileDialogMode](../index.md)/[OPEN_MULTIPLE_FILES](index.md)/[name](name.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: isVisibleProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[isVisibleProperty](is-visible-property.md)
 
 

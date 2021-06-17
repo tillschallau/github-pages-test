@@ -1,3 +1,6 @@
+---
+title: progressProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[ProgressBar](index.md)/[progressProperty](progress-property.md)
 
 

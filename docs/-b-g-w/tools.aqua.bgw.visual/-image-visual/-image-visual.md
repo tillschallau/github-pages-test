@@ -1,3 +1,6 @@
+---
+title: ImageVisual -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.visual](../index.md)/[ImageVisual](index.md)/[ImageVisual](-image-visual.md)
 
 

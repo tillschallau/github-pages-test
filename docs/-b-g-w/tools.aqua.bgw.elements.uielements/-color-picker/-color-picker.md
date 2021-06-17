@@ -1,3 +1,6 @@
+---
+title: ColorPicker -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[ColorPicker](index.md)/[ColorPicker](-color-picker.md)
 
 

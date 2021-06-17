@@ -1,3 +1,6 @@
+---
+title: heightProperty -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[heightProperty](height-property.md)
 
 

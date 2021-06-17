@@ -1,3 +1,6 @@
+---
+title: addElement -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.container](../index.md)/[CardStackView](index.md)/[addElement](add-element.md)
 
 

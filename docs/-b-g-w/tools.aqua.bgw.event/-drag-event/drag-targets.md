@@ -1,3 +1,6 @@
+---
+title: dragTargets -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[DragEvent](index.md)/[dragTargets](drag-targets.md)
 
 

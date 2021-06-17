@@ -1,3 +1,6 @@
+---
+title: initialFileName -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.dialog](../index.md)/[FileDialog](index.md)/[initialFileName](initial-file-name.md)
 
 

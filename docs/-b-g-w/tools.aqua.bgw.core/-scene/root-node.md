@@ -1,3 +1,6 @@
+---
+title: rootNode -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.core](../index.md)/[Scene](index.md)/[rootNode](root-node.md)
 
 

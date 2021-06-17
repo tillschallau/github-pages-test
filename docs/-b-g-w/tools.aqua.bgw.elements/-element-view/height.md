@@ -1,3 +1,6 @@
+---
+title: height -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[height](height.md)
 
 

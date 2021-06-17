@@ -1,3 +1,6 @@
+---
+title: ButtonType -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.dialog](../index.md)/[ButtonType](index.md)
 
 
@@ -46,7 +49,7 @@ jvm
   
 |  Name |  Summary | 
 |---|---|
-| <a name="tools.aqua.bgw.dialog/ButtonType/name/#/PointingToDeclaration/"></a>[name](index.md#1256913083%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.dialog/ButtonType/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#1256913083%2FProperties%2F-1902411840): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
-| <a name="tools.aqua.bgw.dialog/ButtonType/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#647098531%2FProperties%2F-1902411840)| <a name="tools.aqua.bgw.dialog/ButtonType/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#647098531%2FProperties%2F-1902411840): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
+| <a name="tools.aqua.bgw.dialog/ButtonType/name/#/PointingToDeclaration/"></a>[name](index.md#1256913083%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.dialog/ButtonType/name/#/PointingToDeclaration/"></a> [jvm] val [name](index.md#1256913083%2FProperties%2F-302347323): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="tools.aqua.bgw.dialog/ButtonType/ordinal/#/PointingToDeclaration/"></a>[ordinal](index.md#647098531%2FProperties%2F-302347323)| <a name="tools.aqua.bgw.dialog/ButtonType/ordinal/#/PointingToDeclaration/"></a> [jvm] val [ordinal](index.md#647098531%2FProperties%2F-302347323): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)   <br>|
 | <a name="tools.aqua.bgw.dialog/ButtonType/text/#/PointingToDeclaration/"></a>[text](text.md)| <a name="tools.aqua.bgw.dialog/ButtonType/text/#/PointingToDeclaration/"></a> [jvm] val [text](text.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)Displayed button text   <br>|
 

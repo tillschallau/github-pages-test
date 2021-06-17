@@ -1,3 +1,6 @@
+---
+title: isWhitespace -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.event](../index.md)/[KeyCode](index.md)/[isWhitespace](is-whitespace.md)
 
 

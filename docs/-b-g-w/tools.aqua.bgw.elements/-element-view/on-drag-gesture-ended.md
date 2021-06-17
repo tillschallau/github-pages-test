@@ -1,3 +1,6 @@
+---
+title: onDragGestureEnded -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements](../index.md)/[ElementView](index.md)/[onDragGestureEnded](on-drag-gesture-ended.md)
 
 

@@ -1,3 +1,6 @@
+---
+title: DIGIT1 -
+---
 //[BGW](../../../../index.md)/[tools.aqua.bgw.event](../../index.md)/[KeyCode](../index.md)/[DIGIT1](index.md)
 
 

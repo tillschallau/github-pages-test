@@ -1,3 +1,6 @@
+---
+title: CheckBox -
+---
 //[BGW](../../../index.md)/[tools.aqua.bgw.elements.uielements](../index.md)/[CheckBox](index.md)/[CheckBox](-check-box.md)
 
 
